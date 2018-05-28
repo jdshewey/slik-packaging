@@ -5,7 +5,7 @@ echo -e "\e[31mWARNING: IF YOU PROCEED ANY UNCOMMITTED CHANGES TO ANYTHING IN
 echo "
 Y/N?"
 
-read $PROMPT
+read PROMPT
 
 case $PROMPT in
 y|Y)
