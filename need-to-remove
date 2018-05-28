@@ -1,0 +1,4 @@
+katello:
+	foreman-installer-katello
+	pulp-puppet-plugins
+	pulp-puppet-tools	
